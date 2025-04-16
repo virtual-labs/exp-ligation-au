@@ -9,7 +9,7 @@
         "c": "Protein",
         "d": "Gene"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -20,7 +20,7 @@
         "c": "ATP",
         "d": "AMP"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
@@ -53,7 +53,7 @@
         "c": "Covalent bond",
         "d": "Phosphodiester bond"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
@@ -64,7 +64,7 @@
         "c": "A C C G A A C",
         "d": "C A G T C G T"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     }
   ]
