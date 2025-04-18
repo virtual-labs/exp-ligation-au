@@ -1,0 +1,71 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In molecular biology, DNA ligase is a special type of ligase that can link together two ________ strands that have double-stranded break",
+      "answers": {
+        "a": "RNA",
+        "b": "DNA",
+        "c": "Protein",
+        "d": "Gene"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The leaving group in an E. coli DNA ligase mediated reaction is",
+      "answers": {
+        "a": "NAD",
+        "b": "NMN",
+        "c": "ATP",
+        "d": "AMP"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "DNA ligases are used with ___________ to insert DNA fragments into plasmids",
+      "answers": {
+        "a": "DNA Polymerase",
+        "b": "DNA Helicase",
+        "c": "Restriction enzymes",
+        "d": "All the above"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The common commercially available DNA ligases were originally discovered in bacteriophage ________",
+      "answers": {
+        "a": "T2",
+        "b": "T7",
+        "c": "T4",
+        "d": "T3"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "If the ambient temperature exceeds Tm, homologous pairing of the sticky ends will not occur because the high temperature disrupts ________",
+      "answers": {
+        "a": "Hydrogen bond",
+        "b": "Ionic bond",
+        "c": "Covalent bond",
+        "d": "Phosphodiester bond"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A DNA strand has the following bases: G T C A G C A. What are the bases on its complimentary strand?",
+      "answers": {
+        "a": "A A G C C A T",
+        "b": "T T C G G T A",
+        "c": "A C C G A A C",
+        "d": "C A G T C G T"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
