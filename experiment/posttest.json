@@ -2,37 +2,69 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "T4 DNA ligase is similar to E. coli DNA ligase, except that ATP is a cofactor rather than NAD. Besides ligated DNA, another product is",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "pyrophosphate",
+        "b": "phosphate",
+        "c": "NMN",
+        "d": "NAD"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In order to produce a DNA fragment that can be inserted into the DNA of a second organism one would need to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "find a virus that could serve as a vector for transfer of the donor DNA",
+        "b": "create a compatible DNA segment from an mRNA template",
+        "c": "cut the DNA of the donor and recipient cells with the same restriction enzyme",
+        "d": "be sure both donor and recipient DNA were prokaryotic or eukaryotic"
       },
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Cuts in DNA are sealed with",
+      "answers": {
+        "a": "restriction enzymes",
+        "b": "reverse transcriptase",
+        "c": "polymerase",
+        "d": "ligases"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Sticky ends are created by",
+      "answers": {
+        "a": "cutting DNA so that there are short, single strands at each end",
+        "b": "cutting the DNA fragment in several places",
+        "c": "adding polymerase to the end of the DNA fragment",
+        "d": "adding ligase to the end of the DNA fragment"
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The deliberate modifications of an organism's genetic information by directly changing its nucleic acid content is",
+      "answers": {
+        "a": "pharmacogenomics",
+        "b": "genetic engineering",
+        "c": "population genetics",
+        "d": "population dynamics"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Vectors are",
+      "answers": {
+        "a": "molecules that are able to covalently bond to and carry foreign DNA into cells",
+        "b": "molecules that degrade nucleic acids",
+        "c": "molecules that protect host cells from invasion by foreign DNA",
+        "d": "both 1 & 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
